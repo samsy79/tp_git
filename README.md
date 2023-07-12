@@ -4,7 +4,6 @@ This is my minimal academic protflio and blog github page. The entire site is ho
 
 The site also contains a contact form powered by [formspree](https://formspree.io/). It is easy, secure and simple to use. 
 
-
 ## Getting started
 
 1. Register a GitHub account if you don’t have one and confirm your e-mail (required!)
